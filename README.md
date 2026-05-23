@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-GIS + spatial statistics system for mapping road accident hotspots on Nigerian highways — supporting FRSC (Federal Road Safety Corps) and state governments in targeting high-risk corridors for intervention.
+GIS + spatial statistics system for mapping road accident hotspots on Nigerian highways, supporting FRSC (Federal Road Safety Corps) and state governments in targeting high-risk corridors for intervention.
 
 ---
 
@@ -75,5 +75,5 @@ python main.py
 
 ## Author
 
-**Momah Moses** — Geospatial AI Engineer & Data Scientist
+**Momah Moses**, Geospatial AI Engineer & Data Scientist
 [GitHub](https://github.com/Momahmoses) · [Portfolio](https://momahmoses-ng-gis-portfolio.hf.space)
